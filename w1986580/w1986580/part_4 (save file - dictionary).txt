@@ -1,0 +1,4 @@
+w1986580 : Progress - 120, 0, 0
+w1234567 : Do not progress – module retriever - 40, 60, 20
+w2345678 : Do not progress – module retriever - 60, 40, 20
+w4321123 : Exclude - 20, 20, 80
